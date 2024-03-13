@@ -3,7 +3,7 @@
 欢迎来到ANA的**Introduction to Backend Development**课程，我们一共为大家准备了五个任务，时间安排和分值分配列举如下。安排这些任务的目的不是为了难，而是为了教学。我们非常欢迎学习能力强的小白，但我们不欢迎不愿意学习新知识的任何人。由于某些Task的代码量比较大，所以我们默认参与本课程的同学具有一定的编程基础；如果一位同学在Task 0中获得了至少12分，那么我们认为该同学具有编程基础。如果你在Task 0中未达到12分，我们建议你暂时退出该课程，提升自己的编程能力之后再参加（我们下次将在夏季小学期开课）。但是，本着以教学为主要原则，未达成Task 0目标的同学仍然有资格参加后续的讲座和任务。Don't worry，每一个Task都有详细的说明文档，我们不会默认被考核者具有某些先修知识。In other words, we are following one of the security principles: **Use fail-safe default**.
 
 - <u>Mar. 10th 00:00 - Mar. 17th 23:59</u> <b><a href="https://github.com/ANA-IBD/ibd-docs/tree/master/upgrade-service">Task 0 upgrade-service (0 pts)</a>: </b>在这个任务中，你将熟悉C++ Standard Library（STL）的使用，并利用STL设计一个算法解决相关问题。
-- <u>xxx. xxth 00:00 - xxx. xxth 23:59</u> <b>Task 1 http (20 pts): </b>在这个任务中，你将熟悉各种C语言系统调用和http服务器的构成，这些POSIX标准下的系统调用在其他语言中仍然非常有用，因为它们是基于C的。
+- <u>Mar. 13th 00:00 - Mar. 24th 23:59</u> <b><a href="https://github.com/ANA-IBD/ibd-docs/tree/master/http">Task 1 http (20 pts)</a>: </b>在这个任务中，你将熟悉各种C语言系统调用和http服务器的构成，这些POSIX标准下的系统调用在其他语言中仍然非常有用，因为它们是基于C的。
 
 - <u>xxx. xxth 00:00 - xxx. xxth 23:59</u> <b>Task 2 microservice (40 pts): </b>在这个任务中，你将了解微服务架构，熟悉Go基本语法并使用Go开发一些微服务API，你也可以为你的微服务添加附加功能。
 - <u>xxx. xxth 00:00 - xxx. xxth 23:59</u> <b>Task 3 linux network maintenance and troubleshooting (20 pts): </b>在这个任务中，你将掌握Linux网络调试技术，尝试在网络发生问题是进行故障排查。
@@ -142,7 +142,7 @@ vscode的拓展插件非常丰富，我们可以使用**Remote - SSH**来连接�
 
 ## How to ask a question
 
-请使用交大门的**ANAIBD**标签来提出你的问题，你也可以在我们公开的两个仓库[docs](https://github.com/ANA-IBD/docs)和[student0](https://github.com/ANA-IBD/student0)上提交Issues，我们的社员会不定时去解决你的问题。但请注意，提问请遵守[诚信政策](#Integrity)。你也可以在你自己的student仓库内提出私人Issues（其他人不可见），我们同样会解答你的问题。
+请在交大门的**[学术专区—ANA](https://xjtu.men/c/academic/ana/59)**板块来提出你的问题，你也可以在我们公开的两个仓库[docs](https://github.com/ANA-IBD/docs)和[student0](https://github.com/ANA-IBD/student0)上提交Issues，我们的社员会不定时去解决你的问题。但请注意，提问请遵守[诚信政策](#Integrity)。你也可以在你自己的student仓库内提出私人Issues（其他人不可见），我们同样会解答你的问题。
 
 请不要在课程群提出技术方面的问题，课程群仅用于交流课程政策(policy)方面的问题，或者闲聊。为什么？因为我们不希望一个问题被其他人的消息掩盖掉，而且我们希望看到一个问题将问题本身描述得非常详细，如果你仅仅是询问：怎么安装vscode？诸如此类的问题，我们**有权**拒绝回答。相对地，“我的代码编译不通过，编译器提示了这个错误（后面附一张图片）”这种问题，我们很乐意为你解答。
 
